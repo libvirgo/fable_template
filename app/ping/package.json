@@ -7,8 +7,7 @@
   "scripts": {
     "build": "dotnet fable --noCache",
     "run": "node Program.fs.js",
-    "dev": "dotnet fable --silent --noCache && node Program.fs.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "dotnet fable --silent --noCache && node Program.fs.js"
   },
   "keywords": [],
   "author": "",
