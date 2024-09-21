@@ -1,0 +1,8 @@
+bin
+obj
+.DS_Store
+*.fs.js
+.idea
+node_modules
+fable_template.sln.DotSettings
+fable_template.sln.DotSettings.user

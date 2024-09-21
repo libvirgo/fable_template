@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "app", "app", "{3FC7416E-6DAE-4184-8643-BB647E60BF27}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "ping", "app\ping\ping.fsproj", "{C0F35E48-4C01-45A2-B850-82FEB2B27439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F35E48-4C01-45A2-B850-82FEB2B27439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F35E48-4C01-45A2-B850-82FEB2B27439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F35E48-4C01-45A2-B850-82FEB2B27439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F35E48-4C01-45A2-B850-82FEB2B27439}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C0F35E48-4C01-45A2-B850-82FEB2B27439} = {3FC7416E-6DAE-4184-8643-BB647E60BF27}
+	EndGlobalSection
+EndGlobal
